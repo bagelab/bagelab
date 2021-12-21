@@ -1,2 +1,4 @@
-# bagelab
-introduction
+- 👋 Hi, I’m @bagelab
+- check our projects here on github
+- check our website https://www.bagelab.com
+- contact us at contact@bagelab.com
